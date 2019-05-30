@@ -36,7 +36,7 @@
     "roadrunner": "^1.1.0",
     "semver": "^5.1.0",
     "strip-bom": "^3.0.0",
-    "tar": "^2.2.1",
+    "tar": "^2.2.2",
     "tar-stream": "^1.5.2",
     "validate-npm-package-license": "^3.0.1"
   },
