@@ -24,7 +24,7 @@
     "leven": "^2.0.0",
     "loud-rejection": "^1.2.0",
     "minimatch": "^3.0.3",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^0.5.2",
     "node-emoji": "^1.0.4",
     "node-gyp": "^3.2.1",
     "object-path": "^0.11.2",
