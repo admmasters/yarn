@@ -26,7 +26,7 @@
     "minimatch": "^3.0.3",
     "mkdirp": "^0.5.1",
     "node-emoji": "^1.0.4",
-    "node-gyp": "^3.2.1",
+    "node-gyp": "^11.0.0",
     "object-path": "^0.11.2",
     "proper-lockfile": "^2.0.0",
     "read": "^1.0.7",
@@ -36,7 +36,7 @@
     "roadrunner": "^1.1.0",
     "semver": "^5.1.0",
     "strip-bom": "^3.0.0",
-    "tar": "^2.2.1",
+    "tar": "^7.5.4",
     "tar-stream": "^1.5.2",
     "validate-npm-package-license": "^3.0.1"
   },
